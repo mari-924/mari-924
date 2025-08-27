@@ -1,3 +1,4 @@
+# Hi, I'm Mariana Duran!
 # 💫 About Me:
 I’m a Computer Science student at CSUMB with a concentration in Software Engineering, and I’ve been passionate about coding since the 8th grade. Over the past few years, I’ve had the opportunity to intern at Uber twice—first as an UberSTAR in 2024 and then as a SWE intern in 2025—where I grew my technical skills and industry experience.<br><br>
 I’m fluent in Python, and Java, I also have some experience with Go, JavaScript, and C++, and I love applying those skills to creative projects. Right now, I’m developing a short horror video game as a personal project. As a proud Latina and first-generation college student, I’m excited to continue growing as a software engineer and to explore opportunities across different fields in tech. <br><br>
